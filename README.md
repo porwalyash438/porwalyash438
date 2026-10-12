@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <picture>
@@ -75,3 +76,21 @@ An attendance project using facial recognition to automate attendance tracking.
 ---
 
 <div align="center"><sub>Build · Learn · Solve · Ship — <a href="https://github.com/porwalyash438">@porwalyash438</a></sub></div>
+=======
+## Hi there 👋
+
+<!--
+**porwalyash438/porwalyash438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> d91e9dad07fadc4aa3df19b97dcc9bcd76854301
