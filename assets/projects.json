@@ -1,0 +1,9 @@
+{
+  "_comment": "Only repositories owned by porwalyash438 can be rendered as API-driven repository cards. The Railway project is linked directly in README because the known repository is owned by vManav123.",
+  "projects": [
+    {
+      "repo": "Smart_Attendance_System_using_Face_Recognition",
+      "description": "Attendance tracking project using face recognition and computer vision."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Programming Language Stack",
+  "_comment": "Illustrative self-ratings from 0-100, not measured GitHub language percentages. Edit to match your actual proficiency.",
+  "axes": [
+    {
+      "label": "Java",
+      "value": 82
+    },
+    {
+      "label": "C#",
+      "value": 65
+    },
+    {
+      "label": "C++",
+      "value": 78
+    },
+    {
+      "label": "Python",
+      "value": 72
+    },
+    {
+      "label": "JavaScript",
+      "value": 68
+    },
+    {
+      "label": "SQL",
+      "value": 76
+    }
+  ]
+}

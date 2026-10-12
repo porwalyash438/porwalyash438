@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="390" viewBox="0 0 1180 390" role="img" aria-labelledby="title desc">
+<title id="title">Yash Raj — Backend Developer</title><desc id="desc">Dark terminal-inspired developer banner focused on Java, Spring Boot, APIs, databases and problem solving.</desc>
+<defs><linearGradient id="glow" x1="0" x2="1"><stop stop-color="#6f42c1"/><stop offset="1" stop-color="#0969da"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".28"/></filter></defs>
+<rect width="1180" height="390" rx="18" fill="#f6f8fa"/><rect x="14" y="14" width="1152" height="362" rx="14" fill="#ffffff" stroke="#d0d7de" filter="url(#shadow)"/>
+<path d="M14 63H1166" stroke="#d0d7de"/><circle cx="39" cy="38" r="6" fill="#ff5f57"/><circle cx="60" cy="38" r="6" fill="#febc2e"/><circle cx="81" cy="38" r="6" fill="#28c840"/>
+<text x="1128" y="43" text-anchor="end" fill="#57606a" font-family="monospace" font-size="13">yash@backend:~</text>
+<rect x="42" y="91" width="1096" height="252" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="72" y="133" fill="#0969da" font-family="monospace" font-size="15">$ whoami</text>
+<text x="72" y="183" fill="#1f2328" font-family="monospace" font-size="37" font-weight="700">Yash Raj</text>
+<text x="72" y="220" fill="#6f42c1" font-family="monospace" font-size="21">Backend Developer</text>
+<text x="72" y="255" fill="#57606a" font-family="monospace" font-size="16">Java · Spring Boot · SQL · REST APIs · DSA</text>
+<text x="72" y="291" fill="#0969da" font-family="monospace" font-size="14">$ build --learn --solve --ship</text>
+<g transform="translate(850 120)" fill="none" stroke="url(#glow)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M-48 0L-83 35l35 35M48 0l35 35-35 35M18 -12L-18 82"/><rect x="-105" y="-42" width="210" height="155" rx="12" stroke="#d0d7de" stroke-width="1.5"/></g>
+<g fill="#6f42c1" opacity=".65"><circle cx="1045" cy="285" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="1018" cy="305" r="2"/><circle cx="1070" cy="310" r="2"/></g>
+<text x="1120" y="360" text-anchor="end" fill="#57606a" font-family="monospace" font-size="11">GITHUB / PORWALYASH438</text></svg>

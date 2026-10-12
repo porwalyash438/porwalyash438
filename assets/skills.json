@@ -1,0 +1,34 @@
+{
+  "title": "Backend Development Skills",
+  "_comment": "Illustrative self-ratings from 0-100. Adjust to your actual proficiency; workflow redraws this chart.",
+  "axes": [
+    {
+      "label": "DSA",
+      "value": 85
+    },
+    {
+      "label": "Java",
+      "value": 82
+    },
+    {
+      "label": "SQL",
+      "value": 76
+    },
+    {
+      "label": "Python",
+      "value": 72
+    },
+    {
+      "label": "C# / .NET",
+      "value": 65
+    },
+    {
+      "label": "JavaScript",
+      "value": 68
+    },
+    {
+      "label": "Git / GitHub",
+      "value": 78
+    }
+  ]
+}
