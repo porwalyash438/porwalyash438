@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <picture>
@@ -8,7 +8,10 @@
 </picture>
 
 <br>
-
+<a href="https://github.com/porwalyash438">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Yash+Raj+-+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Reliable+Backend+Systems"
+       alt="Animated introduction">
+</a>
 <a href="https://www.linkedin.com/in/porwalyash438"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="mailto:porwalyash438@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
@@ -77,7 +80,17 @@ An attendance project using facial recognition to automate attendance tracking.
 
 <div align="center"><sub>Build · Learn · Solve · Ship — <a href="https://github.com/porwalyash438">@porwalyash438</a></sub></div>
 =======
-## Hi there 👋
+## Hi, I'm Yash Raj 👋
+
+I'm a backend-focused developer passionate about building reliable applications, designing REST APIs, and solving complex programming problems.
+
+- ☕ Focused on **Java, Object-Oriented Programming, and Data Structures & Algorithms**.
+- 🚀 Building my skills in **Spring Boot, REST APIs, SQL, and backend architecture**.
+- 🧩 Solved **1,000+ programming problems** across coding platforms.
+- 🏆 Achieved **Global Rank 1 in CodeChef Starters 186**.
+- 🛠️ Interested in clean code, scalable systems, and practical software engineering.
+
+
 
 <!--
 **porwalyash438/porwalyash438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
